@@ -259,13 +259,13 @@ class Home extends Component {
                                     color='white'
                                     size='jumbo'
                                     weight='semibold'>
-                                    Enjoy easy driving ~~
+                                    {         Enjoy easy driving ~~ }
                                 </X.Text>
                                 <X.Text
                                     color='lightGrey700'
                                     size='medium'
                                     style={ Styles.homeBodyDisconnectedContext }>
-                                    항상 핸들을 잡고 도로를 주시하세요{'\n'}{'\n'}한글화 : 로웰 ( crwusiz )
+                                    { 항상 핸들을 잡고 도로를 주시하세요{'\n'}{'\n'}한글화 : 로웰 ( crwusiz ) }
                                 </X.Text>
                             </View>
                         </View>
